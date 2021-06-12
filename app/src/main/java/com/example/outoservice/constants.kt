@@ -1,0 +1,5 @@
+package com.egorshustov.autofilltest
+
+const val EMAIL_PREFERENCES = "EMAIL_STORAGE"
+const val EMAIL_PRIMARY_PREF = "EMAIL_PRIMARY_PREF"
+const val EMAIL_SECONDARY_PREF = "EMAIL_SECONDARY_PREF"
